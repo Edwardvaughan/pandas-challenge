@@ -1,0 +1,95 @@
+District Summary
+
+15 39170 24649428 78.99 81.88 74.98 85.81 65.17
+
+Values are:
+School Count
+Student Count
+Total Budget
+Average Math Score
+Average Reading Score
+Passing Math Percentage
+Passing Reading Percentage
+Overall Passing Rate
+
+School Summary
+
+Figueroa High School District 2949 1884411 639.0 76.71 81.16 65.99 80.74 53.2
+Shelton High School Charter 1761 1056600 600.0 83.36 83.73 93.87 95.85 89.89
+Hernandez High School District 4635 3022020 652.0 77.29 80.93 66.75 80.86 53.53
+Griffin High School Charter 1468 917500 625.0 83.35 83.82 93.39 97.14 90.6
+Wilson High School Charter 2283 1319574 578.0 83.27 83.99 93.87 96.54 90.58
+Cabrera High School Charter 1858 1081356 582.0 83.06 83.98 94.13 97.04 91.33
+Bailey High School District 4976 3124928 628.0 77.05 81.03 66.68 81.93 54.64
+Holden High School Charter 427 248087 581.0 83.8 83.81 92.51 96.25 89.23
+Pena High School Charter 962 585858 609.0 83.84 84.04 94.59 95.95 90.54
+Wright High School Charter 1800 1049400 583.0 83.68 83.95 93.33 96.61 90.33
+Rodriguez High School District 3999 2547363 637.0 76.84 80.74 66.37 80.22 52.99
+Johnson High School District 4761 3094650 650.0 77.07 80.97 66.06 81.22 53.54
+Ford High School District 2739 1763916 644.0 77.1 80.75 68.31 79.3 54.29
+
+Columns are:
+1: School Name
+2: Type
+3: Total Students
+4: Budget
+5: Per Student Budget
+6: Average Math Score
+7: Average Reading Score
+8: Passing Math Percentage
+9: Passing Reading Percentage
+10: Overall Passing Rate
+
+Best-Performing Schools (by % Overall Passing)
+
+Cabrera High School 91.33
+Griffin High School 90.6
+Wilson High School 90.58
+Pena High School 90.54
+Wright High School 90.33
+
+Lowest-Performing Schools by % Overall Passing)
+
+Rodriguez High School 52.99
+Figueroa High School 53.2
+Huang High School 53.53
+Hernandez High School 53.53
+Huang High School 53.54
+
+Math Scores by Grade
+
+Huang High School 77.12 76.02 76.55 77.36
+Figueroa High School 76.49 76.63 76.99 77.3
+Shelton High School 83.58 83.11 83.59 83.99
+Hernandez High School 77.49 77.39 77.2 77.27
+Griffin High School 82.25 84.4 84.12 83.64
+Wilson High School 83.22 83.88 83.35 83.22
+Cabrera High School 83.21 83.33 82.91 83.5
+Bailey High School 77.15 77.06 77.59 76.57
+Holden High School 84.38 84.17 85.77 83.87
+Pena High School 83.96 83.66 84.66 84.59
+Wright High School 83.43 84.21 84.02 83.87
+Rodriguez High School 76.93 76.69 76.47 77.8
+Johnson High School 77.25 76.75 77.56 76.93
+Ford High School 77.43 77.78 77.03 76.32
+
+Columns are 9th to 12th Grades
+
+Reading Scores by Grade
+
+Huang High School 81.4 81.62 81.53 80.44
+Figueroa High School 81.29 81.51 80.75 81.5
+Shelton High School 84.28 83.6 84.58 83.04
+Hernandez High School 80.93 80.73 81.47 80.94
+Griffin High School 83.57 83.91 84.54 84.3
+Wilson High School 84.07 84.16 83.92 84.51
+Cabrera High School 83.82 84.43 83.94 84.51
+Bailey High School 81.36 80.97 81.01 80.99
+Holden High School 84.39 84.06 84.62 85.73
+Pena High School 84.09 83.97 84.67 85.06
+Wright High School 84.0 83.98 84.33 84.3
+Rodriguez High School 81.06 80.71 80.95 80.49
+Johnson High School 81.31 80.84 80.68 81.31
+Ford High School 80.75 81.37 80.53 80.81
+
+Columns are 9th to 12th Grades
